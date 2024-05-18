@@ -3,7 +3,7 @@
 Lan es una app multiplataforma enfocada en el aprendizaje personalizado, es una solucion para el seguimiento de aprendizaje de los 
 estudiantes que se adapta a ellos y a las curvas de aprendizaje de las materias que imparte.
 
-Lan es una inteligencia artificial generativa entrenada con informacion proveniente de [kaggle](www.kaggle.com) lo que garantiza buena fiabilidad de la información, 
+Lan es una inteligencia artificial generativa entrenada con informacion proveniente de [kaggle](https://www.kaggle.com/) lo que garantiza buena fiabilidad de la información, 
 ademas, es capaz de impartr las materias de Español e Historia pero gracias a su estructura puede ampliarse a muchas otras areas de la educación.
 
 ## Getting Started
@@ -35,6 +35,7 @@ También será necesario contar con Flutter
 - [Descarga Flutter aqui](https://flutter.dev/?_gl=1*1encseo*_up*MQ..&gclid=CjwKCAjwo6GyBhBwEiwAzQTmcyLFM0y_cBkhcK57HxlB94nkN5O39R3Tk8K-ny7ZZXOXq_O7zuPkehoCY7AQAvD_BwE&gclsrc=aw.ds)
 
 Ademas se debe contar con el SDK de Flutter, puede seguir la guia oficial
+
 -[Docuemtanción de instalación Flutter y SDK](https://docs.flutter.dev/get-started/install?_gl=1*inz8by*_up*MQ..&gclid=CjwKCAjwo6GyBhBwEiwAzQTmcyLFM0y_cBkhcK57HxlB94nkN5O39R3Tk8K-ny7ZZXOXq_O7zuPkehoCY7AQAvD_BwE&gclsrc=aw.ds)
 
 # Ejecución
@@ -42,12 +43,14 @@ Ademas se debe contar con el SDK de Flutter, puede seguir la guia oficial
 Para ejecutar se accederá al direcctorio raíz \app, en el se encontrará el archivo app.js y se ejecutará con
 
 ```bash
-node app.js
+node app.js 
+```
 
 Para correr la aplicación se dirigirá al directorio \project y se ejecutará
 
 ```bash
 flutter run
+```
 
 Al ejecutar se mostraran algunas opciones, seleccione la que se requiera. (Tambien puede conectar un dispositivo físico para ejecutar el programa)
 Si al ejecutar se obtiene errores por la selección, verifique que no falte ningun archivo para la opción que seleccionó
