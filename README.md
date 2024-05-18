@@ -3,7 +3,7 @@
 Lan es una app multiplataforma enfocada en el aprendizaje personalizado, es una solucion para el seguimiento de aprendizaje de los 
 estudiantes que se adapta a ellos y a las curvas de aprendizaje de las materias que imparte.
 
-Lan es una inteligencia artificial generativa entrenada con informacion proveniente de "" lo que garantiza buena fiabilidad de la información, 
+Lan es una inteligencia artificial generativa entrenada con informacion proveniente de [kaggle](www.kaggle.com) lo que garantiza buena fiabilidad de la información, 
 ademas, es capaz de impartr las materias de Español e Historia pero gracias a su estructura puede ampliarse a muchas otras areas de la educación.
 
 ## Getting Started
