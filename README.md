@@ -1,6 +1,6 @@
 # proyect
 
-A new Flutter project.
+Proyecto LAN. Una solucion para el seguimiento de aprendizaje de los estudiantes
 
 ## Getting Started
 
