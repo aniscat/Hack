@@ -6,6 +6,10 @@ estudiantes que se adapta a ellos y a las curvas de aprendizaje de las materias 
 Lan es una inteligencia artificial generativa entrenada con informacion proveniente de [kaggle](https://www.kaggle.com/) lo que garantiza buena fiabilidad de la información, 
 ademas, es capaz de impartr las materias de Español e Historia pero gracias a su estructura puede ampliarse a muchas otras areas de la educación.
 
+[Link](https://www.canva.com/design/DAGFj1EFABE/zmqlG636dGMtPebNAKJbcA/view?utm_content=DAGFj1EFABE&utm_campaign=designshare&utm_medium=link&utm_source=editor) a nuestra presentación 
+
+[Link](https://youtu.be/gKt16qTpB40) al video demostrativo del flujo en la interfaz 
+
 ## Getting Started
 
 Este proyecto fue realizado con Flutter
