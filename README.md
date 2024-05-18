@@ -1,6 +1,6 @@
-# proyect
+# Proyecto LAN. 
 
-Proyecto LAN. Una solucion para el seguimiento de aprendizaje de los estudiantes
+Una solucion para el seguimiento de aprendizaje de los estudiantes
 
 ## Getting Started
 
